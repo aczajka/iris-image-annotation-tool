@@ -6,13 +6,14 @@ A simple tool in Matlab for annotating iris and eyelid boundaries, eye corners a
 
 ## Instructions:
 
- Run ‘runSegmentation’ script (no input arguments are needed). You should see the first image read from ‘data-raw’ subfolder.
-2.     Now you can choose one of four possibilities by pressing:
-	a.     ‘p’ for pupil annotation,
-	b.     ‘i’ for iris annotation,
-	c.     ‘u’ for upper eyelid annotation,
-	d.     ‘l’ for lower eyelid annotation.
-3.     Mark as many points on the boundary as you want. Press RETURN when you’re ready.
-4.     You can repeat each of the steps shown in 2. many times. For instance, if you have the upper eyelid annotated, but you are not happy with the result, just press ‘u’ again and repeat the annotation.
-5.     When all four elements are accurately annotated press ‘s’. The results will be saved in ‘data-results’ folder.
-6.     Press RETURN for the next image.
+1. Run ‘runSegmentation’ script (no input arguments are needed). You should see the first image read from ‘data-raw’ subfolder.
+2. Now you can choose one of four possibilities by pressing:
+- ‘p’ for pupil annotation,
+- ‘i’ for iris annotation,
+- ‘u’ for upper eyelid annotation,
+- ‘l’ for lower eyelid annotation.
+3. Mark as many points on the boundary as you want. Press RETURN when you’re ready.
+4. You can repeat each of the steps shown in 2. many times. For instance, if you have the upper eyelid annotated, but you are not happy with the result, just press ‘u’ again and repeat the annotation.
+5. When all four elements are accurately annotated press ‘s’. The results will be saved in ‘data-results’ folder.
+6. Press RETURN for the next image.
+
