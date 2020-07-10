@@ -2,11 +2,11 @@
 
 ## Background
 
-A simple tool in Matlab for annotating iris and eyelid boundaries, eye corners and irregular occlusions. Circular approximations of pupil and iris boundaries are assumed, and parabolic approximations for eyelid shapes are used. This tool was developed to conduct research on diurnal patterns in eyelid apperture and pupil size summarized in: A. Czajka, K. W. Bowyer and E. Ortiz, "Analysis of diurnal changes in pupil dilation and eyelid aperture," in IET Biometrics, vol. 7, no. 2, pp. 136-144, 3 2018; https://ieeexplore.ieee.org/document/8302681 
+A simple tool in Matlab for annotating iris and eyelid boundaries, eye corners and irregular occlusions. Circular approximations of pupil and iris boundaries are assumed, and parabolic approximations for eyelid shapes are used. This tool was developed to conduct research on diurnal patterns in eyelid apperture and pupil size summarized in: [A. Czajka, K. W. Bowyer and E. Ortiz, "Analysis of diurnal changes in pupil dilation and eyelid aperture," in IET Biometrics, vol. 7, no. 2, pp. 136-144, 3 2018](https://ieeexplore.ieee.org/document/8302681)
 
 ## Instructions:
 
-1.     Run ‘runSegmentation’ script (no input arguments are needed). You should see the first image read from ‘data-raw’ subfolder.
+ Run ‘runSegmentation’ script (no input arguments are needed). You should see the first image read from ‘data-raw’ subfolder.
 2.     Now you can choose one of four possibilities by pressing:
 	a.     ‘p’ for pupil annotation,
 	b.     ‘i’ for iris annotation,
