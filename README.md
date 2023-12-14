@@ -2,7 +2,7 @@
 
 ## Background
 
-A simple tool in Matlab for annotating iris and eyelid boundaries, eye corners and irregular occlusions. Circular approximations of pupil and iris boundaries are assumed, and parabolic approximations for eyelid shapes are used. This tool was developed to conduct research on diurnal patterns in eyelid apperture and pupil size summarized in: [A. Czajka, K. W. Bowyer and E. Ortiz, "Analysis of diurnal changes in pupil dilation and eyelid aperture," in IET Biometrics, vol. 7, no. 2, pp. 136-144, 3 2018](https://ieeexplore.ieee.org/document/8302681)
+A simple tool in Matlab for annotating iris and eyelid boundaries, eye corners and irregular occlusions. Circular approximations of pupil and iris boundaries are assumed, and parabolic approximations for eyelid shapes are used. This tool was developed to conduct research on diurnal patterns in eyelid apperture and pupil size summarized in: [A. Czajka, K. W. Bowyer and E. Ortiz, "Analysis of diurnal changes in pupil dilation and eyelid aperture," in IET Biometrics, vol. 7, no. 2, pp. 136-144, 3 2018](https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/iet-bmt.2016.0191)
 
 ## Instructions:
 
