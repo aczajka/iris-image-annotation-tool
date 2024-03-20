@@ -14,8 +14,9 @@ A simple tool in Matlab for annotating iris and eyelid boundaries, eye corners a
 - `l` for lower eyelid annotation.
 3. Mark as many points on the boundary as you want. Press `RETURN` when you’re ready.
 4. You can repeat each of the steps shown in 2. many times. For instance, if you have the upper eyelid annotated, but you are not happy with the result, just press `u` again and repeat the annotation.
-5. When all four elements are accurately annotated press `s`. The results will be saved in `data-results` folder.
-6. Press `RETURN` for the next image.
+5. Additionally, you can correct the resulting mask by choosing `m` (and `+` or `-` buttons to make the brush larger or smaller). 
+6. When all four elements are accurately annotated press `s`. The results will be saved in `data-results` folder.
+7. Press `RETURN` for the next image.
 
 All four steps (pupil, iris, upper eyelid and lower eyelid) use the least squares minimization to fit actual curves. Hence the only thing that must be done is selection of points (the more the better) on iris boundaries and eyelids. Good practice is to annotate at least five points when marking the pupil, iris and eyelids, and trying to place them equidistantly on the visible boundaries.
 
